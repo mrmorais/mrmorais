@@ -1,6 +1,6 @@
 # 🤠
 
-Hi. I'm a Software Engineer (working mostly with Javascript) at [@descomplica](https://github.com/descomplica). Some of my interests are cloud and cloud-native apps, code design, and arch (I'm learning DDD, refactoring, patterns, and microservices) 🕸️ 
+Hi. I'm a Software Engineer (working mostly with Javascript) at [@descomplica](https://github.com/descomplica).
 
 👉 I have a [personal blog](https://mrmorais.github.io/) on tech.
 👉 [This project](https://github.com/mrmorais/behavior-map-natal) is a data visualization map with Google's data on most visited places in a city, it has an interactive [version](https://mrmorais.github.io/others/behavior-map-natal/keplergl.html) and a [Medium](https://towardsdatascience.com/mapping-the-most-popular-places-in-the-city-1cd0737e7023) article with insights. 
