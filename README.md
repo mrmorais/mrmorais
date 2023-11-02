@@ -1,9 +1,19 @@
 # 🤠
 
-Hi. I'm a Software Engineer (working mostly with Javascript) at [@descomplica](https://github.com/descomplica).
+Hi. I'm a 🇧🇷 Software Engineer working mostly with Javascript/TS.
 
-👉 I write a [personal blog](https://mrmorais.github.io/) on tech.
-👉 [This project](https://github.com/mrmorais/behavior-map-natal) is a data visualization map with Google's data on most visited places in a city, it has an interactive [version](https://mrmorais.github.io/others/behavior-map-natal/keplergl.html) and a [Medium](https://towardsdatascience.com/mapping-the-most-popular-places-in-the-city-1cd0737e7023) article with insights. 
+✍️ I write a [personal blog](https://mrmorais.github.io/) on tech.
+
+🤖 Meet my AI-wrapper project [FinGPT](https://fingpt-app-git-main-mrmorais.vercel.app/)
+  > This project has been discontinued and will become open-sourced soon :) You can still see the [demo](https://fingpt-app-git-main-mrmorais.vercel.app/)
+
+💻 I'm currently building a 3-nodes Raspberry Pi Kubernetes cluster
+
+⚗️ I'm experimenting with programming the MOS6502 microprocessor (the goal is to build an 8-bit computer at some point)
+
+🗞️ Read my lastest article on the <img height="20" src="https://cdn-images-1.medium.com/v2/resize:fill:36:36/1*CJe3891yB1A1mzMdqemkdg.jpeg" /> Towards Data Science publication on "[Mapping the most popular places in the city](https://towardsdatascience.com/mapping-the-most-popular-places-in-the-city-1cd0737e7023)" and its [source code](https://github.com/mrmorais/behavior-map-natal).
+
+---
 
 And these are some languages and tools I'm currently working with: 
 
