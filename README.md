@@ -7,7 +7,7 @@ Hi. I'm a 🇧🇷 Software Engineer working mostly with Javascript/TS.
 🤖 Meet my AI-wrapper project [FinGPT](https://fingpt-app-git-main-mrmorais.vercel.app/)
   > This project has been discontinued and will become open-sourced soon :) You can still see the [demo](https://fingpt-app-git-main-mrmorais.vercel.app/)
 
-💻 I'm currently building a 3-nodes Raspberry Pi Kubernetes cluster
+💻 I built a 3-nodes Raspberry Pi Kubernetes cluster (I'm using it to learn service mesh with Istio)
 
 ⚗️ I'm experimenting with programming the MOS6502 microprocessor (the goal is to build an 8-bit computer at some point)
 
