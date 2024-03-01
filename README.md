@@ -2,25 +2,25 @@
 
 Hi. I'm a 🇧🇷 Software Engineer working mostly with Javascript/TS.
 
-✍️ I write a [personal blog](https://mrmorais.github.io/) on tech.
+✍️ I write a [personal blog](https://mrmorais.github.io/) on tech
 
-🤖 Meet my AI-wrapper project [FinGPT](https://fingpt-app-git-main-mrmorais.vercel.app/)
-  > This project has been discontinued and will become open-sourced soon :) You can still see the [demo](https://fingpt-app-git-main-mrmorais.vercel.app/)
+🤖 Some stuff I've been working on with AI:
+- [FinGPT](https://fingpt-app-git-main-mrmorais.vercel.app/) - A LLM-wrapper AI agent for insights on earnings releases of brazilian listed companies. It's not hosted anymore, but you can watch the [demo](https://fingpt-app-git-main-mrmorais.vercel.app/)
+- Studying some NN basics and building finetuned LMs ([my HuggingFace profile](https://huggingface.co/maradona))
 
-💻 I built a 3-nodes Raspberry Pi Kubernetes cluster (I'm using it to learn service mesh with Istio)
+💻 I'm building a home lab Kubernetes cluster with Raspberry Pis 🫐 and K3S
 
-⚗️ I'm experimenting with programming the MOS6502 microprocessor (the goal is to build an 8-bit computer at some point)
+### 🗞️ Latest articles
 
-🗞️ Read my lastest article on the <img height="20" src="https://cdn-images-1.medium.com/v2/resize:fill:36:36/1*CJe3891yB1A1mzMdqemkdg.jpeg" /> Towards Data Science publication on "[Mapping the most popular places in the city](https://towardsdatascience.com/mapping-the-most-popular-places-in-the-city-1cd0737e7023)" and its [source code](https://github.com/mrmorais/behavior-map-natal).
+- [Mapping the most popular places in the city](https://towardsdatascience.com/mapping-the-most-popular-places-in-the-city-1cd0737e7023) (en) <img height="20" src="https://cdn-images-1.medium.com/v2/resize:fill:36:36/1*CJe3891yB1A1mzMdqemkdg.jpeg" /> Towards Data Science publication
+- [Data Product com Apache Pinot: Personalização em “tempo real”](https://posts.mrmorais.com/data-product-com-apache-pinot-personalizacao-em-tempo-real/) (pt-br) @ posts.mrmorais.com
 
 ---
 
-And these are some languages and tools I'm currently working with: 
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
